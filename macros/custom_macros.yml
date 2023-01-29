@@ -1,0 +1,9 @@
+version: 2
+
+macros:
+  - name: unix_nano_to_timestamp
+    desctiption: "Used to convert Uniz nano secs to BigQuery Timestamp datatype"
+    arguments:
+      - name: column_name
+        type: string
+        description: "The name of a column"

@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: dev_seed_data
+    description: "CSVs provided are dumped here."
+    database: getground-uday
+    tables:
+      - name: partners
+      - name: referrals
+      - name: sales_people
