@@ -7,7 +7,7 @@ WITH import_partner AS (
     SELECT 
         *
     FROM
-        {{ source('getground_seed_data', 'partners') }}
+        {{ source('seed_data', 'partners') }}
     -- Filter if sales person is not valid value in PROD. 
     {% if target.name == "prod" %} 
     WHERE

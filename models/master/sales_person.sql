@@ -7,7 +7,7 @@ WITH import_sales_person AS (
     SELECT 
         *
     FROM 
-        {{ source('getground_staging', 'stg_sales_person') }}
+        {{ source('staging', 'stg_sales_person') }}
 )
 
 SELECT 

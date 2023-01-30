@@ -8,21 +8,21 @@ WITH import_partner AS (
         id,
         lead_sales_contact
     FROM
-        {{ source('getground_master', 'partner') }}
+        {{ source('master', 'partner') }}
 )
 , import_dim_partner AS (
     SELECT 
         IdBKey,
         PartnerGKey
     FROM
-        {{ source('getground_dw', 'DimPartner') }}
+        {{ source('dw', 'DimPartner') }}
 )
 , import_dim_salesperson AS (
     SELECT
         SalesPersonGKey,
         Name
     FROM
-        {{ source('getground_dw', 'DimSalesPerson') }}
+        {{ source('dw', 'DimSalesPerson') }}
 )
 
 SELECT

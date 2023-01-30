@@ -8,7 +8,7 @@ WITH import_referral AS (
     SELECT 
         *
     FROM 
-        {{ source('getground_staging', 'stg_referral') }}
+        {{ source('staging', 'stg_referral') }}
 )
 
 SELECT 

@@ -7,7 +7,7 @@ WITH import_partner AS (
     SELECT 
         *
     FROM
-        {{ source('getground_master', 'partner') }}
+        {{ source('master', 'partner') }}
 )
 SELECT 
     id AS IdBKey,

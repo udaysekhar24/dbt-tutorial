@@ -3,11 +3,11 @@
     unique_key='SalesPersonGKey'
 ) }}
 
-WITH import_partner AS (
+WITH import_sales_person AS (
     SELECT 
         *
     FROM 
-        {{ source('getground_master', 'sales_person') }}
+        {{ source('master', 'sales_person') }}
 )
 
 SELECT 

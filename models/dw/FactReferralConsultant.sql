@@ -10,21 +10,21 @@ WITH import_referral AS (
         company_id,
         partner_id
     FROM
-        {{ source('getground_master', 'referral') }}
+        {{ source('master', 'referral') }}
 )
 , import_dim_partner AS (
     SELECT 
         IdBKey,
         PartnerGKey
     FROM
-        {{ source('getground_dw', 'DimPartner') }}
+        {{ source('dw', 'DimPartner') }}
 )
 , import_dim_referral AS (
     SELECT
         IdBKey,
         ReferralGKey
     FROM
-        {{ source('getground_dw', 'DimReferral') }}
+        {{ source('dw', 'DimReferral') }}
 )
 
 SELECT

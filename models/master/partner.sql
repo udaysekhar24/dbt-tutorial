@@ -7,7 +7,7 @@ WITH import_partner AS (
     SELECT 
         *
     FROM
-        {{ source('getground_staging', 'stg_partner') }}
+        {{ source('staging', 'stg_partner') }}
 )
 -- Load only partners with vaild sales person contact.
 SELECT 

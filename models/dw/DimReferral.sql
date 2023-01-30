@@ -7,7 +7,7 @@ WITH import_referral AS (
     SELECT 
         *
     FROM
-        {{ source('getground_master', 'referral') }}
+        {{ source('master', 'referral') }}
 )
 SELECT 
     id AS IdBKey,

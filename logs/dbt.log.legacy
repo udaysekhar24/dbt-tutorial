@@ -1,0 +1,624 @@
+2023-01-29 16:06:48.800541 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 16:09:12.161479 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 17:58:46.293576 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 17:58:49.840042 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1160, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59796, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 17:58:57.860661 (MainThread): unclosed <ssl.SSLSocket fd=492, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59794, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 17:58:57.860661 (MainThread): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59798, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 17:58:57.868697 (MainThread): unclosed <ssl.SSLSocket fd=1264, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59800, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 17:58:57.868697 (MainThread): unclosed <ssl.SSLSocket fd=1372, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59802, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 17:59:50.214009 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 17:59:54.166676 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1080, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59810, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 17:59:54.166676 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1188, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59814, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 18:00:00.726930 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1340, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59820, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 18:00:06.009238 (MainThread): unclosed <ssl.SSLSocket fd=1328, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59818, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 18:00:06.017244 (MainThread): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59822, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 18:03:42.640529 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 18:03:50.466189 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=432, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59845, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 18:03:50.466189 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1044, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59849, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 18:03:50.466189 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1376, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59853, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 18:03:53.641520 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1316, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59855, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:17:03.635019 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 19:17:05.749568 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1144, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 59999, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:17:11.784571 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1040, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60003, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:17:15.647026 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1372, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60005, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:19:19.640742 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 19:25:08.877195 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 19:25:19.398191 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1324, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60082, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:25:19.413775 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1556, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60086, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:25:19.413775 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1660, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60091, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:25:22.479988 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1616, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60093, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:28:58.146966 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 19:28:59.996386 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1144, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60128, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:29:04.120830 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1236, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60132, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:29:07.247378 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1236, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60134, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:37:06.859038 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 19:37:09.200454 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1212, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60181, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:37:15.189510 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=932, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60185, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:37:20.249638 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=964, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60187, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:37:25.756410 (MainThread): unclosed <ssl.SSLSocket fd=1396, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60189, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:41:29.488193 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 19:41:39.088284 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=664, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60226, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:41:39.088284 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1216, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60230, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:41:44.035910 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1084, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60236, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 19:41:49.319262 (MainThread): unclosed <ssl.SSLSocket fd=1112, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60238, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:11:31.953012 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 20:11:36.075541 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1020, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60477, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:11:36.541017 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=676, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60473, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:12:40.697404 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 20:17:35.943864 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 20:17:38.625047 (MainThread): unclosed <ssl.SSLSocket fd=1168, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60521, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:17:44.685459 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1324, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60527, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:17:45.811233 (MainThread): unclosed <ssl.SSLSocket fd=1404, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:c539:8d10:d455:496b', 60530, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:36:18.519413 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 20:36:20.161147 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1148, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60614, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:43:04.918214 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 20:51:08.175263 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 20:51:32.650297 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 20:51:35.093661 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1212, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60747, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:51:36.414540 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1204, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60745, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:51:37.791307 (MainThread): unclosed <ssl.SSLSocket fd=1320, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60753, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:51:43.810587 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1348, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60759, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:51:44.852684 (MainThread): unclosed <ssl.SSLSocket fd=1512, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60761, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:51:44.852684 (MainThread): unclosed <ssl.SSLSocket fd=1368, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60755, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 20:51:44.852684 (MainThread): unclosed <ssl.SSLSocket fd=1388, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60757, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:09:10.120482 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 21:09:11.798742 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1140, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60834, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:09:11.815033 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1096, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60832, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:09:13.577128 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1208, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60838, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:09:23.623497 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1444, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60850, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:09:23.639154 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60840, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:09:23.654826 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1344, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60844, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:09:23.654826 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1372, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 60846, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:29:03.885886 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 21:32:48.629746 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 21:34:32.133451 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 21:34:43.643202 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 21:34:46.619087 (MainThread): unclosed <ssl.SSLSocket fd=1264, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61032, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:34:52.796412 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1128, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61026, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:34:52.796412 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1216, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61030, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:34:52.796412 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1384, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61036, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:34:52.812069 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1468, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61039, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:34:57.024283 (MainThread): unclosed <ssl.SSLSocket fd=736, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61043, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:36:55.766281 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 21:36:57.352678 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1124, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61057, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:36:58.288538 (MainThread): unclosed <ssl.SSLSocket fd=1156, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61059, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:37:04.415046 (MainThread): unclosed <ssl.SSLSocket fd=1312, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61065, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:48:04.247016 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 21:48:42.331627 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 21:48:44.080743 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1168, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61133, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:48:48.225550 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=992, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61135, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:48:48.227544 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1304, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61139, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 21:48:54.302682 (MainThread): unclosed <ssl.SSLSocket fd=1416, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61143, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:04:24.682154 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:07:41.689738 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:08:06.301193 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:08:11.298995 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1300, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61279, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:08:14.092898 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1184, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61281, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:08:16.918212 (MainThread): unclosed <ssl.SSLSocket fd=1184, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61283, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:11:03.253118 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:11:12.116503 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1308, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61320, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:11:42.920674 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:14:09.720017 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:16:24.891917 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:16:33.290796 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1356, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61367, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:16:39.791863 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1040, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61365, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:16:39.791863 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1376, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61369, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:16:39.791863 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1352, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61371, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:18:46.250906 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:19:00.113523 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1212, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61411, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:19:00.115481 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1308, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61413, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:19:00.117475 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1348, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61415, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:19:00.119469 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1336, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61417, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:21:38.730747 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:21:52.534284 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1236, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61466, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:21:52.534284 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1316, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61468, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:21:52.534284 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1364, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61471, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:21:52.534284 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1404, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61473, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:23:06.450821 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:25:06.635361 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:25:20.396412 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:26:09.328341 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:26:17.699012 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1316, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61522, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:26:21.906571 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1320, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61520, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:31:58.902233 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:33:50.134293 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:34:49.287705 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:34:59.901959 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1276, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61574, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:35:05.632594 (MainThread): unclosed <ssl.SSLSocket fd=1336, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61576, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:37:00.920871 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:37:02.439662 (Thread-1 (worker)): "partner_id" does not match the name of any column in this table.
+2023-01-29 22:37:02.439662 (Thread-1 (worker)): "company_id" does not match the name of any column in this table.
+2023-01-29 22:37:02.439662 (Thread-1 (worker)): "consultant_id" does not match the name of any column in this table.
+2023-01-29 22:37:02.439662 (Thread-1 (worker)): "status" does not match the name of any column in this table.
+2023-01-29 22:37:02.439662 (Thread-1 (worker)): "is_outbound" does not match the name of any column in this table.
+2023-01-29 22:37:10.745601 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1252, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61590, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:37:10.761227 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1376, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61592, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:37:29.602933 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:37:42.388495 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1248, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61606, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:39:56.972961 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:40:02.201297 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1184, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61632, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:40:11.888903 (MainThread): unclosed <ssl.SSLSocket fd=1248, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61634, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:40:11.888903 (MainThread): unclosed <ssl.SSLSocket fd=1160, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61636, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:40:11.888903 (MainThread): unclosed <ssl.SSLSocket fd=1348, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61638, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:40:11.888903 (MainThread): unclosed <ssl.SSLSocket fd=1444, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61640, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:45:37.107155 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:45:41.825813 (MainThread): unclosed <ssl.SSLSocket fd=1120, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61669, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:45:41.825813 (MainThread): unclosed <ssl.SSLSocket fd=1164, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61672, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:45:41.825813 (MainThread): unclosed <ssl.SSLSocket fd=1212, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61674, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:49:27.227567 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:49:35.140455 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1308, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61714, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:49:41.953804 (MainThread): unclosed <ssl.SSLSocket fd=1352, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61716, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:49:41.953804 (MainThread): unclosed <ssl.SSLSocket fd=1416, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61718, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:49:41.953804 (MainThread): unclosed <ssl.SSLSocket fd=1208, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61720, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:49:42.034335 (MainThread): unclosed <ssl.SSLSocket fd=1128, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61708, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:49:42.034335 (MainThread): unclosed <ssl.SSLSocket fd=1176, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61710, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:49:42.034335 (MainThread): unclosed <ssl.SSLSocket fd=1284, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61712, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:50:18.321799 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:50:26.179081 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1384, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61731, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:50:33.101659 (MainThread): unclosed <ssl.SSLSocket fd=1436, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61733, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:50:33.117232 (MainThread): unclosed <ssl.SSLSocket fd=1456, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61735, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:50:33.117232 (MainThread): unclosed <ssl.SSLSocket fd=1508, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61737, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:50:33.198556 (MainThread): unclosed <ssl.SSLSocket fd=1144, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61725, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:50:33.198556 (MainThread): unclosed <ssl.SSLSocket fd=1196, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61727, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:50:33.198556 (MainThread): unclosed <ssl.SSLSocket fd=1280, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61729, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:52:56.212248 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:52:58.712256 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1224, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61755, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:11.814295 (MainThread): unclosed <ssl.SSLSocket fd=1384, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61761, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:11.819250 (MainThread): unclosed <ssl.SSLSocket fd=1424, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61763, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:11.822234 (MainThread): unclosed <ssl.SSLSocket fd=1464, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61765, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:11.824228 (MainThread): unclosed <ssl.SSLSocket fd=1536, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61767, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:11.870320 (MainThread): unclosed <ssl.SSLSocket fd=1040, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61753, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:11.870320 (MainThread): unclosed <ssl.SSLSocket fd=1268, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61757, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:11.885979 (MainThread): unclosed <ssl.SSLSocket fd=1296, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61759, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:35.584249 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:53:38.321136 (MainThread): unclosed <ssl.SSLSocket fd=1432, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61777, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:46.779808 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1452, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61781, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:46.779808 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1512, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61783, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:46.779808 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1060, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61785, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:53:50.744084 (MainThread): unclosed <ssl.SSLSocket fd=1052, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61789, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 22:59:38.564213 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 22:59:41.399970 (MainThread): unclosed <ssl.SSLSocket fd=1192, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61838, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:03:25.609261 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:03:28.277172 (MainThread): unclosed <ssl.SSLSocket fd=688, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61877, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:03:28.929337 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=368, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61879, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:03:34.846589 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=368, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61885, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:12:22.190835 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:12:25.042873 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1196, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61968, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:12:25.781395 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1228, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61970, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:12:31.451594 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1268, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 61977, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:14:22.945694 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:14:25.784511 (MainThread): unclosed <ssl.SSLSocket fd=1220, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62012, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:14:28.350228 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62010, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:14:28.365848 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=816, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62016, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:14:33.811913 (MainThread): unclosed <ssl.SSLSocket fd=1112, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62021, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:15:18.218201 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:15:22.037861 (MainThread): unclosed <ssl.SSLSocket fd=1356, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62041, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:15:22.069142 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1180, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62035, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:15:22.069142 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1304, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62039, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:15:30.584253 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1460, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62050, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:15:35.883487 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1412, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62045, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:15:35.899147 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1140, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62048, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:15:35.899147 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1512, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62052, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:15:40.886954 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1464, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62054, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:19:44.831764 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:19:47.966850 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1192, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62093, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:19:50.783642 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1064, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62099, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:19:51.284600 (MainThread): unclosed <ssl.SSLSocket fd=340, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62091, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:19:51.284600 (MainThread): unclosed <ssl.SSLSocket fd=1236, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62095, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:19:51.284600 (MainThread): unclosed <ssl.SSLSocket fd=300, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62101, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:00.046438 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1376, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62105, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:00.062059 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=300, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62107, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:00.062059 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1328, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62109, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:10.315817 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1288, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62113, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:15.424643 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1048, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62111, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:15.424643 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1224, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62115, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:23.716941 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1320, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62120, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:31.699625 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1476, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62124, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:35.696292 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1576, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62127, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:35.727533 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1256, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62117, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:35.727533 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1288, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62122, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:43.808551 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1540, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62133, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:52.070403 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1472, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62138, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:56.035249 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1616, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62141, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:56.066525 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1328, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62129, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:20:56.066525 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1552, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62136, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:21:04.213884 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1284, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62146, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:21:08.568851 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1428, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62148, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:21:16.313584 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1072, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62154, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:21:16.329201 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1552, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62144, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:21:16.344858 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1436, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62152, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:21:20.232667 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1556, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62157, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:21:28.180469 (MainThread): unclosed <ssl.SSLSocket fd=1428, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62162, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:23:05.971511 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:25:44.500881 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:27:18.740782 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:30:13.293845 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:33:35.335734 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:34:50.899913 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:35:26.724583 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:36:08.102165 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:41:32.539498 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:42:13.915732 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:43:06.255199 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:43:23.729275 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:43:46.308741 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:44:21.018179 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:44:28.674549 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1276, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62397, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:44:33.847306 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1380, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62399, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:45:27.546539 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:46:09.568459 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:46:44.742497 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:49:11.344720 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:49:32.778818 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:50:36.591261 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:50:39.467697 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1196, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62461, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:50:39.911901 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1268, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62465, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:50:43.604239 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1032, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62459, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:50:43.604239 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1268, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62467, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:50:43.604239 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1392, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62471, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:50:46.189265 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1436, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62473, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:50:48.916249 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=948, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62476, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:50:54.923291 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1032, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62478, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:51:18.423565 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1036, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62481, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:51:18.428853 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1368, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62483, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:51:18.431842 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1400, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62485, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:51:18.434875 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1564, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62490, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:51:28.295474 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1492, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62498, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:51:37.094124 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1276, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62502, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:51:39.862559 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1588, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62495, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:51:39.867547 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1424, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62500, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:51:53.058696 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1356, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62513, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:52:05.833887 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1512, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62507, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:52:05.833887 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1532, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62516, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:52:05.849505 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1500, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62518, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:52:05.849505 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1012, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62521, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:52:19.319065 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1400, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62527, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:52:27.355417 (MainThread): unclosed <ssl.SSLSocket fd=1444, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62523, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:52:27.355417 (MainThread): unclosed <ssl.SSLSocket fd=1656, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62525, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:52:27.371032 (MainThread): unclosed <ssl.SSLSocket fd=720, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62534, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:52:27.375905 (MainThread): unclosed <ssl.SSLSocket fd=1244, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62537, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-29 23:53:22.877834 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:55:17.869918 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:55:34.513516 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:56:05.479707 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:56:35.249584 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:59:26.658286 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-29 23:59:59.578175 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:02:11.990628 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:03:07.013735 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:05:27.850012 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:12:36.795427 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:13:19.406864 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:13:22.315182 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1168, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62690, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:13:23.174246 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1152, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62688, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:13:23.174246 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1088, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62694, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:13:23.174246 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1092, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62696, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:13:29.422298 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1548, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62709, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:13:32.581323 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1240, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62700, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:13:32.581323 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1528, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62711, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:13:43.975109 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1560, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62715, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:13:49.345406 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1616, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62713, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:13:49.361036 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1424, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62717, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:13:58.641107 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1556, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62721, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:11.721078 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1348, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62719, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:11.726061 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1268, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62723, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:11.730052 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=748, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62725, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:11.733043 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1240, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62727, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:20.894904 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1696, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62736, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:34.326740 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1648, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62730, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:34.328737 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1260, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62738, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:34.330766 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1700, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62740, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:34.333722 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1148, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62742, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:47.678983 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1684, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62750, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:56.816617 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=988, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62745, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:56.832198 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1300, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62747, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:56.832198 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=960, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62752, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:14:56.847811 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1600, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62754, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:15:01.645498 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1268, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62756, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:17:54.648715 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:19:30.938415 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:19:34.837686 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1248, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62799, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:19:36.019452 (Dummy-3): unclosed <ssl.SSLSocket fd=1164, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62795, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:19:36.019452 (Dummy-3): unclosed <ssl.SSLSocket fd=928, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62801, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:19:41.634062 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1360, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62805, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:21:09.093626 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:21:12.291576 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1064, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62819, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:21:12.291576 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=352, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62823, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:21:12.291576 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1148, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62825, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:21:21.577916 (MainThread): unclosed <ssl.SSLSocket fd=1360, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62829, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:21:21.581904 (MainThread): unclosed <ssl.SSLSocket fd=1396, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62832, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:21:21.585892 (MainThread): unclosed <ssl.SSLSocket fd=952, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 62835, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:46:40.277044 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:48:35.469399 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:49:07.986805 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 00:49:12.011106 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=848, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63069, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:49:13.259170 (MainThread): unclosed <ssl.SSLSocket fd=1308, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63073, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:49:13.368510 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1084, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63065, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:49:13.368510 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63071, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 00:49:28.408255 (MainThread): unclosed <ssl.SSLSocket fd=1504, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63081, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:07:18.383711 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:07:39.410411 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:08:00.359191 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:08:16.684378 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:08:18.196266 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1132, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63190, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:08:19.670616 (MainThread): unclosed <ssl.SSLSocket fd=1188, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63194, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:08:23.315087 (MainThread): unclosed <ssl.SSLSocket fd=1076, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63188, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:08:23.315087 (MainThread): unclosed <ssl.SSLSocket fd=1156, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63192, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:08:23.330711 (MainThread): unclosed <ssl.SSLSocket fd=1232, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63196, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:08:23.330711 (MainThread): unclosed <ssl.SSLSocket fd=760, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63198, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:12:26.418057 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:12:28.087283 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63263, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:12:29.405820 (MainThread): unclosed <ssl.SSLSocket fd=748, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63267, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:12:29.483925 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1212, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63265, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:12:45.264324 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:12:46.793336 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1160, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63277, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:12:48.188382 (MainThread): unclosed <ssl.SSLSocket fd=1224, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63281, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:12:51.233595 (MainThread): unclosed <ssl.SSLSocket fd=1076, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63275, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:12:51.233595 (MainThread): unclosed <ssl.SSLSocket fd=1132, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63279, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:12:51.233595 (MainThread): unclosed <ssl.SSLSocket fd=1276, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63283, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:12:51.249245 (MainThread): unclosed <ssl.SSLSocket fd=1288, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63285, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:30:47.182902 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:30:48.740424 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63399, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:30:50.181942 (MainThread): unclosed <ssl.SSLSocket fd=1240, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63403, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:30:52.977891 (MainThread): unclosed <ssl.SSLSocket fd=1104, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63397, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:30:52.977891 (MainThread): unclosed <ssl.SSLSocket fd=320, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63401, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:30:52.977891 (MainThread): unclosed <ssl.SSLSocket fd=1284, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63405, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:30:52.977891 (MainThread): unclosed <ssl.SSLSocket fd=1352, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63407, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:32:56.900323 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:33:53.476684 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:33:56.217448 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1124, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63452, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:33:57.216134 (MainThread): unclosed <ssl.SSLSocket fd=1272, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63456, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:33:57.262954 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1260, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63454, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:24.628567 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:35:28.141845 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1244, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63476, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:28.141845 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1288, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63478, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:32.629756 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1072, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63470, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:32.629756 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1228, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63474, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:32.645379 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1496, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63482, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:36.575249 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1472, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63484, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:44.991552 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1048, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63490, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:46.536068 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1536, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63492, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:50.803166 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1176, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63487, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:50.803166 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1560, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63494, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:54.674302 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1476, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63496, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:35:58.608318 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1476, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63498, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:06.654733 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1168, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63503, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:10.682031 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1260, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63505, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:10.697650 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1548, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63500, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:18.333143 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=912, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63512, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:22.496017 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1072, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63515, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:30.652044 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1636, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63521, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:30.683322 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1584, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63510, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:30.683322 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1260, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63518, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:34.688042 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1620, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63523, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:42.400283 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1520, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63527, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:47.310656 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1044, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63530, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:51.018487 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1596, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63525, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:51.018487 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1384, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63535, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:54.673977 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1484, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63537, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:36:59.026339 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1644, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63539, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:06.180888 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1612, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63543, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:09.932820 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1608, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63545, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:10.082228 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1700, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63541, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:17.754949 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1780, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63549, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:21.544608 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1776, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63551, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:29.484550 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1796, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63555, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:32.060567 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1552, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63553, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:37.116088 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1176, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63560, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:41.016222 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1644, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63562, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:48.492091 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1672, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63566, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:52.281896 (MainThread): unclosed <ssl.SSLSocket fd=1612, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63564, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:37:52.281896 (MainThread): unclosed <ssl.SSLSocket fd=1672, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63568, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:48:35.559365 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:48:37.971419 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63661, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:48:41.763854 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1168, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63659, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:48:41.779476 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1260, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63663, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:59:31.928581 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 01:59:33.612599 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1180, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63743, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:59:34.834777 (MainThread): unclosed <ssl.SSLSocket fd=1224, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63747, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 01:59:34.896856 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1140, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63745, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:09:59.459624 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:11:54.413730 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:11:59.660710 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1232, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63833, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:11:59.660710 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1400, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63837, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:11:59.676380 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1420, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63839, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:11:59.676380 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1468, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63841, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:23:28.976758 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:23:30.529911 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1164, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63934, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:23:31.708635 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1256, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63938, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:23:31.713650 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1288, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63940, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:23:35.311043 (MainThread): unclosed <ssl.SSLSocket fd=1100, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63932, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:23:35.311043 (MainThread): unclosed <ssl.SSLSocket fd=1200, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63936, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:23:35.311043 (MainThread): unclosed <ssl.SSLSocket fd=1300, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63942, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:23:35.311043 (MainThread): unclosed <ssl.SSLSocket fd=1372, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63944, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:30:27.718787 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:30:49.442206 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:30:50.983116 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1160, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63989, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:30:52.286415 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1220, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63993, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:30:58.845823 (MainThread): unclosed <ssl.SSLSocket fd=1104, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63987, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:30:58.856587 (MainThread): unclosed <ssl.SSLSocket fd=1184, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63991, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:30:58.860576 (MainThread): unclosed <ssl.SSLSocket fd=1276, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63995, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:30:58.862804 (MainThread): unclosed <ssl.SSLSocket fd=1288, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63997, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:30:58.862804 (MainThread): unclosed <ssl.SSLSocket fd=1392, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 63999, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:31:18.281542 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:31:19.810710 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1152, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64010, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:31:21.034236 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1216, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64014, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:31:21.049896 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1260, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64016, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:31:27.032889 (MainThread): unclosed <ssl.SSLSocket fd=1104, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64008, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:31:27.032889 (MainThread): unclosed <ssl.SSLSocket fd=1128, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64012, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:31:27.032889 (MainThread): unclosed <ssl.SSLSocket fd=1272, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64018, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:31:27.032889 (MainThread): unclosed <ssl.SSLSocket fd=1356, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64020, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:32:03.740336 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:32:05.807830 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1212, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64031, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:32:06.887081 (MainThread): unclosed <ssl.SSLSocket fd=1276, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64035, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:32:09.689481 (MainThread): unclosed <ssl.SSLSocket fd=1092, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64027, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:32:09.692486 (MainThread): unclosed <ssl.SSLSocket fd=1160, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64029, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:32:09.695468 (MainThread): unclosed <ssl.SSLSocket fd=1168, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64033, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:32:09.697462 (MainThread): unclosed <ssl.SSLSocket fd=1320, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64037, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:32:09.699460 (MainThread): unclosed <ssl.SSLSocket fd=1196, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64039, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:44:19.016375 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:45:09.312005 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:45:10.904646 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1152, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64116, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:45:12.558274 (MainThread): unclosed <ssl.SSLSocket fd=1200, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64122, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:45:18.302040 (MainThread): unclosed <ssl.SSLSocket fd=1076, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64114, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:45:18.317661 (MainThread): unclosed <ssl.SSLSocket fd=1096, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64118, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:45:18.317661 (MainThread): unclosed <ssl.SSLSocket fd=1208, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64120, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:45:18.317661 (MainThread): unclosed <ssl.SSLSocket fd=1272, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64124, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:45:18.317661 (MainThread): unclosed <ssl.SSLSocket fd=1220, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64126, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:47:13.006229 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:47:14.478479 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1128, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64140, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:47:15.692935 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1220, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64144, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:47:15.694929 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1268, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64146, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:47:22.206039 (MainThread): unclosed <ssl.SSLSocket fd=1104, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64138, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:47:22.206039 (MainThread): unclosed <ssl.SSLSocket fd=1052, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64142, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:47:22.221659 (MainThread): unclosed <ssl.SSLSocket fd=1228, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64148, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:47:22.221659 (MainThread): unclosed <ssl.SSLSocket fd=1108, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64150, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:48:30.886223 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:48:32.342347 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1156, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64159, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:48:33.605033 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1216, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64163, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:48:33.607026 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1260, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64165, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:48:40.795027 (MainThread): unclosed <ssl.SSLSocket fd=1092, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64156, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:48:40.795027 (MainThread): unclosed <ssl.SSLSocket fd=1164, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64161, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:48:40.795027 (MainThread): unclosed <ssl.SSLSocket fd=1276, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64167, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:48:40.810619 (MainThread): unclosed <ssl.SSLSocket fd=1372, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64169, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:02.312401 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:49:04.309149 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1160, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64179, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:05.996632 (MainThread): unclosed <ssl.SSLSocket fd=1248, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64185, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:08.998681 (MainThread): unclosed <ssl.SSLSocket fd=1088, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64177, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:09.000716 (MainThread): unclosed <ssl.SSLSocket fd=1108, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64181, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:09.002710 (MainThread): unclosed <ssl.SSLSocket fd=1212, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64183, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:09.004705 (MainThread): unclosed <ssl.SSLSocket fd=1292, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64187, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:09.007660 (MainThread): unclosed <ssl.SSLSocket fd=1132, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64189, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:34.320972 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:49:36.319674 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1168, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64196, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:38.055088 (MainThread): unclosed <ssl.SSLSocket fd=1256, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64202, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:40.659967 (MainThread): unclosed <ssl.SSLSocket fd=1076, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64193, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:40.675587 (MainThread): unclosed <ssl.SSLSocket fd=1132, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64198, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:40.675587 (MainThread): unclosed <ssl.SSLSocket fd=1224, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64200, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:40.675587 (MainThread): unclosed <ssl.SSLSocket fd=1284, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64204, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:49:40.675587 (MainThread): unclosed <ssl.SSLSocket fd=1408, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64206, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:50:15.698113 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 02:50:18.244680 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1204, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64217, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:50:19.351259 (MainThread): unclosed <ssl.SSLSocket fd=1276, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64221, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:50:22.574902 (MainThread): unclosed <ssl.SSLSocket fd=1100, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64213, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:50:22.574902 (MainThread): unclosed <ssl.SSLSocket fd=1160, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64215, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:50:22.574902 (MainThread): unclosed <ssl.SSLSocket fd=1192, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64219, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:50:22.590559 (MainThread): unclosed <ssl.SSLSocket fd=1320, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64223, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 02:50:22.590559 (MainThread): unclosed <ssl.SSLSocket fd=1332, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64225, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:00:11.869267 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 03:01:38.195264 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 03:02:26.720470 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 03:04:36.097628 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 03:05:45.931072 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 03:05:48.276417 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1204, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64323, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:05:48.276417 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1248, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64325, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:05:49.218592 (MainThread): unclosed <ssl.SSLSocket fd=1268, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64327, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:05:49.745952 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1160, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64321, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:06:36.169397 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 03:08:04.074235 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 03:08:06.403020 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1188, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64371, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:08:07.088834 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1244, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64376, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:08:07.889498 (MainThread): unclosed <ssl.SSLSocket fd=1256, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64378, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:08:07.979085 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1224, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64374, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:10:02.395316 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 03:10:03.898956 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1192, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64395, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:10:05.542601 (MainThread): unclosed <ssl.SSLSocket fd=1284, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64401, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:10:08.483966 (MainThread): unclosed <ssl.SSLSocket fd=1100, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64393, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:10:08.484965 (MainThread): unclosed <ssl.SSLSocket fd=1128, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64397, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:10:08.487010 (MainThread): unclosed <ssl.SSLSocket fd=1236, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64399, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:10:08.487010 (MainThread): unclosed <ssl.SSLSocket fd=1328, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64403, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:10:08.487010 (MainThread): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64405, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:15:58.992785 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 03:16:01.170183 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64445, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:16:02.373088 (MainThread): unclosed <ssl.SSLSocket fd=1268, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64449, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:16:05.277222 (MainThread): unclosed <ssl.SSLSocket fd=1100, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64441, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:16:05.277222 (MainThread): unclosed <ssl.SSLSocket fd=1160, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64443, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:16:05.277222 (MainThread): unclosed <ssl.SSLSocket fd=1248, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64447, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:16:05.277222 (MainThread): unclosed <ssl.SSLSocket fd=1320, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64452, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:16:05.277222 (MainThread): unclosed <ssl.SSLSocket fd=948, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64454, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:37:31.001769 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 03:37:33.014041 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1136, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64617, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:37:33.017021 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1180, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64619, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:37:33.878212 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1092, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64615, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:37:33.880202 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1212, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64621, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:37:47.799569 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1280, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64628, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:37:47.802561 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1224, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64630, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:37:47.805554 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1336, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64632, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:37:51.572186 (MainThread): unclosed <ssl.SSLSocket fd=1172, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64623, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 03:37:51.574180 (MainThread): unclosed <ssl.SSLSocket fd=1416, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 64634, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 10:57:22.557115 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 10:59:38.923254 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:23:57.606486 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:24:02.309448 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=880, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51138, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:24:04.526481 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1288, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51142, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:24:05.872205 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1012, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51146, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:24:07.129696 (MainThread): unclosed <ssl.SSLSocket fd=1000, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51148, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:24:12.757686 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1096, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51153, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:24:17.798583 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1384, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51155, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:35:56.123862 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:36:19.589653 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:36:37.727829 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:37:01.024531 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:37:11.832391 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:37:39.475880 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:37:42.548486 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1264, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51355, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:42.551478 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1292, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51357, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:42.554470 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1028, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51359, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:44.158047 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=444, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51361, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:45.415579 (ThreadPoolExecutor-0_0): unclosed <ssl.SSLSocket fd=1252, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51363, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:48.181087 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1192, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51369, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:48.186073 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=932, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51371, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:51.382159 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=744, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51367, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:51.385152 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1480, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51373, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:51.389148 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1236, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51377, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:51.394127 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1440, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51379, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:56.902293 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1464, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51385, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:57.633318 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1372, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51387, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:58.210582 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1448, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51381, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:58.213574 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1136, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51383, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:37:58.218558 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1488, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51389, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:38:07.483801 (MainThread): unclosed <ssl.SSLSocket fd=1496, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51395, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:38:37.383969 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:38:39.054281 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1132, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51409, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:38:40.649654 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1152, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51411, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:38:40.654641 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1168, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51413, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:38:40.659627 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1228, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51415, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:38:47.664308 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1364, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51422, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:07.868708 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:39:09.392241 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1108, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51432, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:10.952614 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1104, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51434, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:10.954609 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1192, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51436, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:10.957602 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1184, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51438, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:20.086694 (MainThread): unclosed <ssl.SSLSocket fd=1400, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51446, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:32.360083 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:39:35.350680 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1168, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51455, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:35.355694 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1224, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51457, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:35.359694 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1268, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51459, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:38.784223 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=740, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51453, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:38.788249 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1340, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51463, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:44.552377 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1408, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51469, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:47.591266 (MainThread): unclosed <ssl.SSLSocket fd=1384, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51465, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:39:47.593261 (MainThread): unclosed <ssl.SSLSocket fd=1276, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51467, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:43:36.995195 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:43:40.428138 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1212, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51544, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:43:40.431131 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1228, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51546, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:43:40.433126 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1288, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51548, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:43:47.155204 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1168, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51542, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:43:47.158196 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1320, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51552, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:43:47.160191 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1392, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51554, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:43:52.693575 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1456, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51559, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:47:43.446584 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:47:47.839230 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1336, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51596, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:47:49.630817 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1364, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51598, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:47:49.635804 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1360, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51600, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:47:49.640791 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1428, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51602, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:47:55.140101 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1508, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51607, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:47:55.241823 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1216, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51592, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:48:31.264810 (MainThread): 'cgi' is deprecated and slated for removal in Python 3.13
+2023-01-30 11:48:35.504684 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1236, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51634, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:48:35.508716 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=1280, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51636, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:48:36.652903 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1076, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51628, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:48:36.654936 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1192, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51632, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:48:36.656893 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1216, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51638, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:48:41.990083 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=1184, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51644, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>
+2023-01-30 11:48:44.904500 (MainThread): unclosed <ssl.SSLSocket fd=1184, family=23, type=1, proto=0, laddr=('2a01:4b00:ea40:3400:20a3:733c:75a5:4f1f', 51646, 0, 0), raddr=('2a00:1450:4009:821::200a', 443, 0, 0)>

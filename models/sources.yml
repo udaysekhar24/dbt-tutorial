@@ -1,28 +1,28 @@
 version: 2
 
 sources:
-  - name: 'getground_seed_data'
+  - name: 'seed_data'
     description: "CSVs provided are dumped here."
     tables:
       - name: partners
       - name: referrals
       - name: sales_people
   
-  - name: 'getground_staging'
+  - name: 'staging'
     description: "Staging tables"
     tables:
       - name: stg_partner
       - name: stg_referral
       - name: stg_sales_person
   
-  - name: 'getground_master'
+  - name: 'master'
     description: "Master tables contain entire data"
     tables:
       - name: partner
       - name: referral
       - name: sales_person
   
-  - name: 'getground_dw'
+  - name: 'dw'
     description: "Star schema tables"
     tables:
       - name: DimPartner
