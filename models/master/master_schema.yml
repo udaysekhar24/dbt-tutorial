@@ -37,7 +37,14 @@ models:
       - name: lead_sales_contact
         description: "Sales person contact."
         tests:
-          - not_null
+          - not_null:
+              config:
+                store_failures: false
+          - relationships:
+              to: ref('sales_person')
+              field: name
+              config:
+                store_failures: true
 
   - name: referral
     description: "Getground end-customers refered as partners."

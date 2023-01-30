@@ -34,16 +34,34 @@ clean-targets:         # directories to be removed by `dbt clean`
 models:
   getground:
     # Config indicated by + and applies to all files under models/example/
-    example:
-      +materialized: view
-      +enabled: false
     staging:
       +enabled: true
       +materialized: table
       +schema: staging
       +docs: 
         show: true
+        node_color: "red"
+    master:
+      +enabled: true
+      +materialized: table
+      +schema: master
+      +docs: 
+        show: true
         node_color: "blue"
+    dw:
+      +enabled: true
+      +materialized: table
+      +schema: dw
+      +docs: 
+        show: true
+        node_color: "green"
+    mart:
+      +enabled: true
+      +materialized: view
+      +schema: mart
+      +docs: 
+        show: true
+        node_color: "gold"
 
 seeds:
   getground:

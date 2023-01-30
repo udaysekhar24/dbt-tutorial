@@ -4,7 +4,7 @@ WITH import_sales_person AS (
     SELECT 
         *
     FROM 
-        {{ source('dev_seed_data', 'sales_people') }}
+        {{ source('getground_seed_data', 'sales_people') }}
 )
 
 SELECT 

@@ -1,10 +1,30 @@
 version: 2
 
 sources:
-  - name: dev_seed_data
+  - name: 'getground_seed_data'
     description: "CSVs provided are dumped here."
-    database: getground-uday
     tables:
       - name: partners
       - name: referrals
       - name: sales_people
+  
+  - name: 'getground_staging'
+    description: "Staging tables"
+    tables:
+      - name: stg_partner
+      - name: stg_referral
+      - name: stg_sales_person
+  
+  - name: 'getground_master'
+    description: "Master tables contain entire data"
+    tables:
+      - name: partner
+      - name: referral
+      - name: sales_person
+  
+  - name: 'getground_dw'
+    description: "Star schema tables"
+    tables:
+      - name: DimPartner
+      - name: DimReferral
+      - name: DimSalesPerson

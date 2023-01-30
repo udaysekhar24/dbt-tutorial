@@ -7,7 +7,7 @@ WITH import_referral AS (
     SELECT 
         *
     FROM 
-        {{ source('dev_seed_data', 'referrals') }}
+        {{ source('getground_seed_data', 'referrals') }}
 )
 
 SELECT 

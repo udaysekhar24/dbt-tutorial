@@ -1,0 +1,79 @@
+version: 2
+
+models:
+  - name: stg_sales_person
+    description: "Getground sales person"
+    columns:
+      - name: name
+        description: "Name of sales person"
+        tests:
+          - unique
+          - not_null
+      - name: country
+        description: "Country of the sales person"
+        tests:
+          - not_null
+
+  - name: stg_partner
+    description: "Getground partners who are lettings agents or mortgage brokers"
+    columns:
+      - name: id
+        description: "Identifier to a partner"
+        tests:
+          - unique
+          - not_null
+      - name: created_at
+        description: "[metadata] Created timestamp of partner"
+        tests:
+          - not_null
+      - name: updated_at
+        description: "[metadata] Last modified timestamp of partner"
+        tests:
+          - not_null
+      - name: partner_type
+        description: "Type of partner."
+        tests:
+          - not_null
+      - name: lead_sales_contact
+        description: "Sales person contact."
+        tests:
+          - not_null
+
+  - name: stg_referral
+    description: "Getground end-customers refered as partners."
+    columns:
+      - name: id
+        description: "Identifier to a referral"
+        tests:
+          - unique
+          - not_null
+      - name: created_at
+        description: "[metadata] Created timestamp of referral"
+        tests:
+          - not_null
+      - name: updated_at
+        description: "[metadata] Last modified timestamp of referral. \
+                      For referrals, the `updated_at` field essentially says when the status went from 'pending' to either 'disinterested' or 'successful'."
+        tests:
+          - not_null
+      - name: company_id
+        description: "Referral associated company identifier."
+        tests:
+          - not_null
+      - name: partner_id
+        description: "Referral referred by Partner."
+        tests:
+          - not_null
+      - name: consultant_id
+        description: "The referrals are attributed to the specific consultant at a partner."
+        tests:
+          - not_null
+      - name: status
+        description: "Status of the refferal."
+        tests:
+          - accepted_values:
+              values: ['pending', 'successful', 'disinterested']
+      - name: is_outbound
+        description: "'is_outbound' is 'true' when we refer a customer to a partner, i.e. upsell. In this case we send them the customer, and they pay _us_ a commission."
+        tests:
+          - not_null
