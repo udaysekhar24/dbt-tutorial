@@ -13,6 +13,7 @@ models:
         description: "Country of the sales person"
         tests:
           - not_null
+          - is_supported_country
 
   - name: stg_partner
     description: "Getground partners who are lettings agents or mortgage brokers"
@@ -40,20 +41,19 @@ models:
           - not_null
 
   - name: stg_referral
-    description: "Getground end-customers refered as partners."
+    description: 'Referral data'
     columns:
       - name: id
-        description: "Identifier to a referral"
+        description: 'id'
         tests:
           - unique
           - not_null
       - name: created_at
-        description: "[metadata] Created timestamp of referral"
+        description: 'created_at'
         tests:
           - not_null
       - name: updated_at
-        description: "[metadata] Last modified timestamp of referral. \
-                      For referrals, the `updated_at` field essentially says when the status went from 'pending' to either 'disinterested' or 'successful'."
+        description: 'updated_at'
         tests:
           - not_null
       - name: company_id
@@ -61,7 +61,7 @@ models:
         tests:
           - not_null
       - name: partner_id
-        description: "Referral referred by Partner."
+        description: 'partner_id'
         tests:
           - not_null
       - name: consultant_id
