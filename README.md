@@ -8,22 +8,22 @@ Note:
 2. dw layer is not required for this data with limited columns. As it is an overhead to create dim and fact tables. And there are no facts/measures in the raw data provided. But, as a standard practice dw layer is created.
 
 ### Project Ground Rules
-all models:
+- all models:
     - query:
         - BigQuery reserved keywords in caps.
-staging:
+- staging:
     - model names: 
         - plural
         - prefix: "stg_"
     column names: 
         - snake case.
-master:
+- master:
     - model names: 
         - singular
         - snake case
     - column names: 
         - snake case.
-dw:
+- dw:
     - model names: 
         - singular
         - Camel case
@@ -35,7 +35,7 @@ dw:
             - suffix: BKey
         - Surrogate Keys:
             - suffix: GKey
-mart:
+- mart:
     - model names: 
         - singular 
         - Camel case
