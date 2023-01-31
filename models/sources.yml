@@ -34,3 +34,12 @@ sources:
       - name: DimPartner
       - name: DimReferral
       - name: DimSalesPerson
+      - name: FactPartnerSalesPerson
+      - name: FactReferralConsultant
+      
+  - name: 'mart'
+    description: "Star schema tables"
+    tables:
+      - name: GetGroundDataMart
+      - name: PartnerReportMart
+      - name: ReferralReportMart

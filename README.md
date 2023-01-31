@@ -15,7 +15,7 @@ Note:
     - model names: 
         - plural
         - prefix: "stg_"
-    column names: 
+    - column names: 
         - snake case.
 - master:
     - model names: 
@@ -58,3 +58,16 @@ Try running the following commands:
 - Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
+### Order of execution for this ETL pipelines testing
+Note: For dev and uat add --target=dev or --target=uat argument.
+
+dbt clean
+dbt deps
+dbt test
+dbt seed
+dbt run -m staging.*
+dbt run -m master.*
+dbt run -m dw.*
+dbt run -m mart.*
+dbt clean
