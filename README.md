@@ -62,12 +62,12 @@ Try running the following commands:
 ### Order of execution for this ETL pipelines testing
 Note: For dev and uat add --target=dev or --target=uat argument.
 
-dbt clean
-dbt deps
-dbt test
-dbt seed
-dbt run -m staging.*
-dbt run -m master.*
-dbt run -m dw.*
-dbt run -m mart.*
-dbt clean
+1. dbt clean
+2. dbt deps
+3. dbt test
+4. dbt seed
+5. dbt run -m staging.*
+6. dbt run -m master.*
+7. dbt run -m dw.*
+8. dbt run -m mart.*
+9. dbt clean
